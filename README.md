@@ -1,10 +1,10 @@
 # My_script
 
-# 🚀 Mini Language  
+# 🚀 My own Computer Language Interpreter
 
 > A robust and modular interpreter for a custom scripting language, designed to handle variables, operations, conditionals, and loops with ease.
 
----
+
 
 ## 🌟 Features  
 
