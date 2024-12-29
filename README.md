@@ -41,10 +41,12 @@ while condition do action
 ```
 
 📂 Project Structure
+
 ├── lexer.py         # Tokenizes input into meaningful components  
 ├── parser.py        # Builds an Abstract Syntax Tree (AST)  
 ├── interpreter.py   # Executes the AST for program execution  
-├── tokens.py        # Defines token classes for language components  
+├── tokens.py        # Defines token classes for language components         
+├── shell.py         # Runs the program and allows you to interact with the language on the terminal
 
 🔥 How to Run
 My Script
