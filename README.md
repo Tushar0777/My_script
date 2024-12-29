@@ -38,7 +38,7 @@ else do action
 
 ✅ Loops
 while condition do action
-
+```
 
 📂 Project Structure
 ├── lexer.py         # Tokenizes input into meaningful components  
@@ -48,6 +48,9 @@ while condition do action
 
 🔥 How to Run
 My Script
+
+
+```plaintext
 make x = 5
 make y = 10
 if x < y do
@@ -55,7 +58,7 @@ if x < y do
 else
     make z = x - y
 
-
+```
 
 🌟 Contribution
 💡 Ideas? Bugs? Enhancements?
